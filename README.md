@@ -9,16 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado em criar soluçõ
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,git,vscode,ubuntu,github,cpp" />
-</p>
-
----
-
-### 📈 Estatísticas de Desenvolvedor
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesboss&show_icons=true&theme=transparent&title_color=0078d7&text_color=ffffff&icon_color=0078d7&border_color=0078d7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesboss&layout=compact&langs_count=7&theme=transparent&title_color=0078d7&text_color=ffffff&icon_color=0078d7&border_color=0078d7" />
+  <img src="https://skillicons.dev/icons?i=py,linux,vscode,ubuntu" />
 </p>
 
 ---
