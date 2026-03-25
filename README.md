@@ -2,14 +2,14 @@
 
 ### 👨‍💻 Desenvolvedor Python | Estudante de ADS | Entusiasta de IA Local
 
-[cite_start]Sou estudante de Análise e Desenvolvimento de Sistemas (3º período) focado em criar soluções inteligentes e automatizadas[cite: 4]. [cite_start]Atualmente, dedico meus estudos ao desenvolvimento de agentes de IA que rodam localmente, priorizando privacidade e eficiência[cite: 6].
+Sou estudante de Análise e Desenvolvimento de Sistemas (3º período) focado em criar soluções inteligentes e automatizadas. Atualmente, dedico meus estudos ao desenvolvimento de agentes de IA que rodam localmente, priorizando privacidade e eficiência.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,ubuntu,vscode,git,github,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,linux,vscode,git,github" />
 </p>
 
 <p align="left">
