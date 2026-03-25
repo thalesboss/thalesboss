@@ -31,7 +31,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (3º período) focado em
 
 ### 🌟 Projetos em Destaque
 
-* [cite_start]**[Agente_AI](https://github.com/thalesboss/Agente_AI)**: Sistema de sumarização de PDFs e automação de PPTs utilizando IA Local (Ollama) e bibliotecas avançadas como `PyMuPDF`[cite: 18, 20, 21].
+**[Agente_AI](https://github.com/thalesboss/Agente_AI)**: Sistema de sumarização de PDFs e automação de PPTs utilizando IA Local (Ollama) e bibliotecas avançadas como `PyMuPDF`[cite: 18, 20, 21].
 
 ---
 
